@@ -1,0 +1,40 @@
+{
+  "name": "fl-ui",
+  "version": "1.1.44",
+  "authors": [
+    "Laurent Goudet <laurent@freelancer.com>"
+  ],
+  "description": "Useful UI directives",
+  "main": [
+    "ui.js",
+    "directive/flActiveLink.js",
+    "directive/flActiveTab.js",
+    "directive/flAutoresize.js",
+    "directive/flContenteditable.js",
+    "directive/flCountdown.js",
+    "directive/flDailyBarGraph.js",
+    "directive/flExpandable.js",
+    "directive/flFocusOn.js",
+    "directive/flFileSelection.js",
+    "directive/flInViewport.js",
+    "directive/flPagination.js",
+    "directive/flScrollpos.js",
+    "directive/flProgressBar.js",
+    "directive/flReadMore.js",
+    "directive/flScrollGlue.js",
+    "directive/flNoScrollOverflow.js",
+    "directive/flSelectbox.js",
+    "directive/flShowPassword.js",
+    "directive/flSmoothScroll.js",
+    "directive/flTouchActiveFix.js",
+    "directive/flTouchend.js",
+    "directive/flTouchstart.js",
+    "filter/timeAgoFilter.js"
+  ],
+  "dependencies": {
+    "fl-utils": "https://git.freelancer.com/angular/bower-fl-cookies.git"
+  },
+  "license": "Freelancer",
+  "homepage": "https://gitlab.freelancer.com/angular/fl-angular",
+  "private": true
+}
