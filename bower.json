@@ -32,7 +32,7 @@
     "filter/timeAgoFilter.js"
   ],
   "dependencies": {
-    "fl-utils": "https://git.freelancer.com/angular/bower-fl-cookies.git"
+    "fl-utils": "https://github.com/freelancer/bower-fl-cookie.git"
   },
   "license": "Freelancer",
   "homepage": "https://gitlab.freelancer.com/angular/fl-angular",
